@@ -9,7 +9,7 @@ Instructions
 - THe number of allowed errors is six.
 
 
-Concepts taught in the project
+Concepts learned in the project
   1. string manipulation
   2. loops and logic flow
   3. comparing strings and "masking" certain letters in a string
