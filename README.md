@@ -6,7 +6,7 @@ Instructions
 - The player guesses the word letter by letter.
 - If the player guesses a correct letter, every occurrence of that letter is revealed
 - The game ends when the user guesses the word or when he reaches the number of allowed errors
-- THe number of allowed errors is six.
+- The number of allowed errors is six.
 
 
 Concepts learned in the project
